@@ -6,17 +6,17 @@ const Images =[
     },
     { 
         id: 1,
-        source: 'images/Reading.jpg',
+        source: 'https://images.unsplash.com/photo-1576872381149-7847515ce5d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80',
         tittle: "BOOKS"
     },
     {
         id: 2,
-        source:'images/diet.jpg',
+        source:'https://cdn.w600.comps.canstockphoto.com/woman-doctor-dietitian-in-lab-coat-stock-photography_csp20426703.jpg',
         tittle: "DIETITIAN"
     },
     {
         id: 3,
-        source:'images/fitness.jpg',
+        source:'https://quoteideas.com/wp-content/uploads/Best-gym-quotes-sayings-thoughts-images-33.jpg',
         tittle: "FITNESS"
     },
     {
