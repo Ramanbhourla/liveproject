@@ -1,7 +1,7 @@
 const Images =[
     {
         id: 0,
-        source:'images/sports.jpg',
+        source:'https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80',
         tittle: "SPORTS"
     },
     { 
@@ -16,12 +16,12 @@ const Images =[
     },
     {
         id: 3,
-        source:'images/fitness.jpg',
+        source:'/images/fitness.jpg',
         tittle: "FITNESS"
     },
     {
         id: 4,
-        source:'images/party.jpg',
+        source:'/images/party.jpg',
         tittle: "INTERTAINMENT"
     }
 ];
