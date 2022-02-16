@@ -191,11 +191,11 @@
 .pic{
     float: right; 
     width: 500px;
-    height: 380px;
+    height: 350px;
     margin-top: 0px;
-    margin-right: 50px;
+    margin-right: 40px;
     margin-left: 70px;
-    filter: opacity(70%);
+    filter: opacity(90%);
     border-radius: 20px;
 }
 .footer{

@@ -1,27 +1,27 @@
 const Images =[
     {
         id: 0,
-        source:'https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80',
+        source:'https://images.pexels.com/photos/2834917/pexels-photo-2834917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
         tittle: "SPORTS"
     },
     { 
         id: 1,
-        source: 'images/Reading.jpg',
+        source: 'https://images.pexels.com/photos/1148399/pexels-photo-1148399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
         tittle: "BOOKS"
     },
     {
         id: 2,
-        source:'images/diet.jpg',
+        source:'https://images.pexels.com/photos/8460157/pexels-photo-8460157.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
         tittle: "DIETITIAN"
     },
     {
         id: 3,
-        source:'/images/fitness.jpg',
+        source:'https://images.pexels.com/photos/260352/pexels-photo-260352.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
         tittle: "FITNESS"
     },
     {
         id: 4,
-        source:'/images/party.jpg',
+        source:'https://images.pexels.com/photos/4451709/pexels-photo-4451709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
         tittle: "INTERTAINMENT"
     }
 ];
