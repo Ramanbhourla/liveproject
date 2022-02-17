@@ -1,4 +1,3 @@
-import React, { useEffect } from "react";
 import { Redirect, Route, Switch } from "react-router-dom";
 import NavBar from "./Files/NavBar";
 import Home from "./Files/Home";
@@ -8,7 +7,6 @@ import Contact from "./Files/Contact";
 import Sports from "./Files/Sports";
 
 const App = () => {
-  
   return (
     <div>
       <NavBar />

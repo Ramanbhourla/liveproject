@@ -2,6 +2,7 @@ import React from "react";
 import { FcLike } from "react-icons/fc";
 import { useHistory } from "react-router-dom/cjs/react-router-dom.min";
 
+
 const Home = () => {
   const history = useHistory();
 
@@ -9,6 +10,8 @@ const Home = () => {
     history.push("services");
   };
   return (
+    <div>
+    
     <div className="home">
       <img
         src={"https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
@@ -45,6 +48,7 @@ const Home = () => {
       <footer className="footer">
         © BhourlaDevelopment LTD 2022 All Rights Reserved
       </footer>
+    </div>
     </div>
   );
 };

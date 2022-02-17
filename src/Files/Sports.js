@@ -22,7 +22,7 @@ const Sports = () => {
   };
 
   return (
-    <div>
+    <div className="sports">
       <h1>Let's learn about {sports}...</h1>
       <h4>
         {sports} (or {sports}) is all forms of usually competitive physical activity

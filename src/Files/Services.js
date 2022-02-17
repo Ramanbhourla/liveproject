@@ -7,9 +7,12 @@ const Services = () => {
    
   
   return (
-    <>
+    <div className="container">
+  <div className="row">
+    
       {Img.map((cur, index) => {
         return (
+          <div className="col-sm-3">
           <div className="card" key={cur.id}>
             <img src={cur.source} className="card-img-top" alt="..." />
             <div className="card-body">
@@ -20,9 +23,12 @@ const Services = () => {
               </Link>
             </div>
           </div>
+          </div>
         );
       })}
-    </>
+    
+    </div>
+    </div>
   );
 };
 

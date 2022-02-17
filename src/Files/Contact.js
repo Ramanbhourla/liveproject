@@ -29,13 +29,14 @@ const Contact = () => {
   };
 
   return (
+    <div className="container">
     <div className="about">
       <h1 className="contact"> Our Contact Information </h1>
       <h6>
         Nullam quam lorem, tristique non vestibulum nec, consectetur in risus.
         Aliquam a quam vel leo gravida gravida eu porttitor dui.
       </h6>
-      <div className="address">
+      <div className="address" >
         <div className="block1">
           <BsGeoAltFill className="icons1" />
           <br />
@@ -131,6 +132,7 @@ const Contact = () => {
           <RiTwitterFill />
         </span>
       </div>
+    </div>
     </div>
   );
 };
